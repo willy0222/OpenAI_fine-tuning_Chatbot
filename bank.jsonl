@@ -1,0 +1,11 @@
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "如何申請帳戶轉籍?"}, {"role": "assistant", "content": "由本人填具帳戶轉籍申請書兼登錄單並簽蓋原留印鑑向原開戶分行申請,已申請第e個網者亦可線上申請,部分帳戶無法辦理轉籍."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "如何辦理存摺存款帳戶銷戶?"}, {"role": "assistant", "content": "本人攜帶身分證、原留印鑑及存摺洽本行任一分行辦理,惟屬特殊性質狀態之帳戶,請洽原開戶分行辦理,本行亦提供郵寄結清或線上結清銷戶服務."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "存摺遺失如何處理?"}, {"role": "assistant", "content": "本人攜帶身分證及原留印鑑向本行任一分行辦理掛失補發,本行會酌收手續費用,惟帳戶有特殊註記者,仍請洽原開戶分行辦本行亦提供客服專線或第e個網線上掛失存摺服務."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "如何申請全行通提功能?"}, {"role": "assistant", "content": "可於開戶時一併申請設定全行通提功能.若開戶時未申請,可本人攜帶存摺及原留印鑑向本行任一分行辦理."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "綜合存款戶如何辦理定存?"}, {"role": "assistant", "content": "本人攜帶身份證及原留印鑑向原開戶分行辦理,建議也可至本行任一分行申請電話語音銀行或網路銀行亦可辦理定存."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "公司戶或個人戶如何申請無退票證明?"}, {"role": "assistant", "content": "公司戶：憑公司大小章，至本行任一分行辦理.個人戶：憑開戶印鑑,至本行任一分行辦理."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "支票遺失如何辦理?"}, {"role": "assistant", "content": "發票人或持票人攜帶身分證或公司登記事項表或其他足資證明身分之主管機關核發證件."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "金融卡如何申請轉帳或跨國提款功能?"}, {"role": "assistant", "content": "可於開戶時一併申請設定轉帳或跨國提款功能.若開戶時未設定,可本人攜帶身分證、原留印鑑及金融卡至本行任一分行辦理."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "晶片金融卡之晶片密碼與磁條密碼有何不同?"}, {"role": "assistant", "content": "晶片金融卡有晶片及磁條二組密碼,晶片密碼為6到12位數,磁條密碼為4位數."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "晶片密碼連續輸入四次錯誤遭鎖卡後，如何處理?"}, {"role": "assistant", "content": "本人攜帶身分證、原留印鑑及金融卡至本行任一分行申請密碼解鎖並重設."}]}
+{"messages": [{"role": "system", "content": "你是使用繁體中文的銀行客服人員"}, {"role": "user", "content": "使用eATM進行跨行轉帳交易,手續費如何收取?"}, {"role": "assistant", "content": "使用本行金融卡透過本行eATM進行跨行轉帳交易,優惠期間(至101/5/31)每筆手續費新台幣10元."}]}
